@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\webapi\\mycorewebapi\\controllers\\winningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|solutionrelative:controllers\\winningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\webapi\\mycorewebapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\webapi\\mycorewebapi\\controllers\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|solutionrelative:controllers\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\webapi\\mycorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\webapi\\mycorewebapi\\mycorewebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|solutionrelative:mycorewebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\webapi\\mycorewebapi\\efpt.config.json.user||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|solutionrelative:efpt.config.json.user||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\webapi\\mycorewebapi\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|solutionrelative:efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\webapi\\mycorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\webapi\\mycorewebapi\\models\\ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|solutionrelative:models\\ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\webapi\\mycorewebapi\\controllers\\cricketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA3F92-D932-4D69-9DD0-59A670280472}|MycoreWebAPI.csproj|solutionrelative:controllers\\cricketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinningController.cs",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\Controllers\\WinningController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WinningController.cs",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\Controllers\\WinningController.cs",
+              "RelativeToolTip": "Controllers\\WinningController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:00:06.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:59:57.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MycoreWebAPI.http",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\MycoreWebAPI.http",
+              "RelativeDocumentMoniker": "MycoreWebAPI.http",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\MycoreWebAPI.http",
+              "RelativeToolTip": "MycoreWebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-17T05:59:27.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "efpt.config.json.user",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\efpt.config.json.user",
+              "RelativeDocumentMoniker": "efpt.config.json.user",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\efpt.config.json.user",
+              "RelativeToolTip": "efpt.config.json.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-10-17T05:59:09.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\efpt.config.json",
+              "RelativeDocumentMoniker": "efpt.config.json",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\efpt.config.json",
+              "RelativeToolTip": "efpt.config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T05:59:02.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T05:58:49.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ipl.cs",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\Models\\Ipl.cs",
+              "RelativeDocumentMoniker": "Models\\Ipl.cs",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\Models\\Ipl.cs",
+              "RelativeToolTip": "Models\\Ipl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:58:20.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CricketController.cs",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\Controllers\\CricketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CricketController.cs",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\Controllers\\CricketController.cs",
+              "RelativeToolTip": "Controllers\\CricketController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAuwGsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:50:01.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwEMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:11:14.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathController.cs",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\Controllers\\MathController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MathController.cs",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\WebAPI\\MycoreWebAPI\\Controllers\\MathController.cs",
+              "RelativeToolTip": "Controllers\\MathController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:57:57.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
